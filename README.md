@@ -39,4 +39,24 @@ Limpar e organizar os dados, removendo valores faltantes ou inválidos.
 ## 2. Definir Diretores Renomados
 Criar uma lista de diretores renomados com base em métricas como número de filmes e premiações.
 
-##3. Perguntas de Pesquisa
+## 3. Perguntas de Pesquisa
+
+1. Há uma relação significativa entre as notas da crítica e as notas do público para filmes de diretores renomados?
+
+2. Os filmes dirigidos por diretores renomados têm melhores bilheterias em média do que filmes de outros diretores?
+
+3. Os gêneros mais explorados por diretores renomados têm impacto em suas avaliações?
+
+4. Ao observar esses dados é possível notar que os filmes feitos por diretores renomados não é significativamente maiores
+
+5. Ao longo das decácas as notas caíram?
+
+6. Comparando por produtora, qual público gera maior nota, a crítica ou o público?
+
+7. Quais os diretores renomados com mais filmes produzidos?
+
+8. Os diretores Alfred Hitchcock, Steven Spielberg, Martin Scorsese e John Ford têm consistentemente boas notas da crítica ao longo do tempo?
+
+9. Qual é a média de duração dos filmes dirigidos por Alfred Hitchcock, Steven Spielberg, Martin Scorsese e John Ford?
+
+10. Quais os generos mais utilizados dos filmes dirigidos por Alfred Hitchcock, Steven Spielberg, Martin Scorsese e John Ford?
